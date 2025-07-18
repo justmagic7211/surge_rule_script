@@ -1,3 +1,12 @@
+#!name=vveibo
+#!desc=最后更新时间 2025-07-18 21:49:18
+#!author=justmagic
+#!repo=https://github.com/justmagic7211/surge_rule_script
+#!category=justmagic
+#!http-request-script=2
+#!http-response-script=2
+#!mitm=1
+#!total=5
 [General]
 [Rule]
 [URL Rewrite]
